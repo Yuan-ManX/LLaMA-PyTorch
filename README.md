@@ -1,2 +1,3 @@
-# LLaMA-PyTorch
+# LLaMA PyTorch
+
 PyTorch implementation of LLaMA.
